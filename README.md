@@ -13,3 +13,12 @@ The CIFAR10 dataset consists of 50,000 training images and 10,000 test images. E
 - matplotlib
 - numpy
 - scikit-learn
+
+## Usage
+01. Open the Jupyter Notebook CIFAR10_Image_Classification.ipynb in Google Colab or any Jupyter Notebook environment.
+
+02. Execute each code cell in the notebook sequentially to train the models and evaluate their performance.
+
+03. Follow the comments and explanations provided in the notebook to understand the code and the process of image classification using CNN and ANN.
+
+04. Compare the accuracy and performance of the CNN and ANN models on the CIFAR10 dataset.
